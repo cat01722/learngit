@@ -1,2 +1,0 @@
-this is a git txt
-i start to learn git
