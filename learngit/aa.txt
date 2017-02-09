@@ -6,5 +6,7 @@ fourthtime changes
 fifthtime changes
 sixthtime changes
 before commit update this file
-this change is on a dev branch
-shshs
+this change is on a dev branch & simple
+merge 
+with no-ff
+add some words
